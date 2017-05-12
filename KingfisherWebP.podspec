@@ -16,7 +16,7 @@ KingfisherWebP is an extension of the popular library [Kingfisher](https://githu
 
   s.ios.deployment_target = '8.0'
   s.tvos.deployment_target = "9.0"
-#s.osx.deployment_target = "10.10" # Not supported for now
+  #s.osx.deployment_target = "10.10" # Not supported for now
   s.watchos.deployment_target = "2.0"
 
   s.source_files = 'KingfisherWebP/Classes/**/*'
